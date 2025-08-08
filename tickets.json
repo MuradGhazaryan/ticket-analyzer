@@ -1,0 +1,82 @@
+{
+  "tickets": [
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "16:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "22:10",
+      "carrier": "TK",
+      "stops": 3,
+      "price": 12400
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "17:20",
+      "arrival_date": "13.05.18",
+      "arrival_time": "08:10",
+      "carrier": "S7",
+      "stops": 1,
+      "price": 13100
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "12:10",
+      "arrival_date": "12.05.18",
+      "arrival_time": "18:30",
+      "carrier": "TK",
+      "stops": 2,
+      "price": 11500
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "13.05.18",
+      "departure_time": "09:15",
+      "arrival_date": "13.05.18",
+      "arrival_time": "19:45",
+      "carrier": "SU",
+      "stops": 1,
+      "price": 15800
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "13.05.18",
+      "departure_time": "14:00",
+      "arrival_date": "14.05.18",
+      "arrival_time": "02:30",
+      "carrier": "S7",
+      "stops": 2,
+      "price": 12900
+    },
+    {
+      "origin": "VVO",
+      "origin_name": "Владивосток",
+      "destination": "TLV",
+      "destination_name": "Тель-Авив",
+      "departure_date": "14.05.18",
+      "departure_time": "06:45",
+      "arrival_date": "14.05.18",
+      "arrival_time": "14:20",
+      "carrier": "TK",
+      "stops": 1,
+      "price": 13450
+    }
+  ]
+}
